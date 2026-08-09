@@ -1,3 +1,13 @@
+> # ⚠️ RETIRED — 9 August 2026
+>
+> **The Security Guard License Verification API is no longer running.**
+>
+> The service has been shut down. Every endpoint referenced below now returns
+> **HTTP 502**, and the RapidAPI listing has been removed. These examples are
+> kept for reference only — they will not work.
+>
+> Do not use this as the basis for an integration.
+
 # Security Guard License Verification API — Examples
 
 Code examples for the [Security Guard License Verification API](https://rapidapi.com/operational-systems-llc-operational-systems-llc-default/api/security-guard-license-verification-api) on RapidAPI.
